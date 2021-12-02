@@ -2064,7 +2064,7 @@ report 50020 "Sales - Invoice DSDK2018 ERPG"
     end;
 
     var
-        Text000: TextConst DAN = 'Sælger', DEU = 'Verkaufer', ENU = 'Sales Person';//
+        Text000: TextConst DAN = 'Sælger', DEU = 'Verkaufer', ENU = 'Sales Person';
         Text001: TextConst DAN = 'I alt %1', DEU = 'Gesamt %1', ENU = 'Total %1';
         Text002: TextConst DAN = 'Total %1', DEU = 'Gesamt %1', ENU = 'Total %1';
         Text003: TextConst DAN = 'KOPI', DEU = 'KOPIE', ENU = 'COPY';
