@@ -1,0 +1,37 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "type": "al",
+      "request": "launch",
+      "name": "Microsoft cloud sandbox",
+      "startupObjectId": 143,
+      "startupObjectType": "Page",
+      "breakOnError": true,
+      "launchBrowser": true,
+      "enableLongRunningSqlStatements": true,
+      "enableSqlInformationDebugger": true,
+      "tenant": "b3651860-d956-4029-bee9-771730ab481d",
+      "schemaUpdateMode": "Synchronize",
+      "environmentType": "Sandbox",
+      "environmentName": "Sandbox_Chrom",
+      //"sandboxName": "Sandbox_Chrom"
+      
+      
+    }
+     /*  {
+            "type": "al",
+            "request": "launch",
+            "name": "BC130",
+            "server": "http://localhost",
+            "serverInstance": "BC130",
+            "authentication": "Windows",
+            "startupObjectId": 22,
+            "startupObjectType": "Page",
+            "breakOnError": true,
+            "schemaUpdateMode": "Synchronize",
+            "port": 7049,            
+            //"schemaUpdateMode": "Recreate"
+      } */
+  ]
+}

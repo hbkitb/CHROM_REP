@@ -1,0 +1,38 @@
+{
+  "id": "b8ac6520-fb53-456a-865b-3367e4db922e",
+  "name": "(ERPG) Standard Reports",
+  "publisher": "ERPgruppen",
+  "version": "1.81.36481.0",
+  "brief": "",
+  "description": "",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "url": "",
+  "logo": "./ERPgruppen-logo_ext.jpg",
+  "dependencies": [
+    {
+      "appId": "63ca2fa4-4f03-4f2b-a480-172fef340d3f",
+      "publisher": "Microsoft",
+      "name": "System Application",
+      "version": "1.0.0.0"
+    },
+    {
+      "appId": "437dbf0e-84ff-417a-965d-ed2bb9650972",
+      "publisher": "Microsoft",
+      "name": "Base Application",
+      "version": "15.0.0.0"
+    }
+  ],
+  "screenshots": [],
+  "platform": "15.0.0.0",
+  "idRanges": [
+    {
+      "from": 50000,
+      "to": 50149
+    }
+  ],
+  "contextSensitiveHelpUrl": "https://StandardReports_36481.com/help/",
+  "showMyCode": true,
+  "runtime": "4.0"
+}

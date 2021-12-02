@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<PermissionSets>
+<PermissionSet RoleID="D365 BASIC" RoleName="PermissioDynamics 365 Basis-adgangnSetName">
+        <Permission>
+            <ObjectType>TableData</ObjectType>
+            <ObjectID>50090</ObjectID> <!-- ObjectName -->
+            <ReadPermission>1</ReadPermission>
+            <InsertPermission>1</InsertPermission>
+            <ModifyPermission>1</ModifyPermission>
+            <DeletePermission>1</DeletePermission>
+            <ExecutePermission>1</ExecutePermission>
+            <SecurityFilter />
+        </Permission>
+    </PermissionSet>
+</PermissionSets>
